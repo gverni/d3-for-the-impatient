@@ -46,3 +46,7 @@ This will:
 * Start a webserver on port 3000 serving files from the `examples` folder
 * Start an instance of your default browser pointing to the index page 
 * Initiate file sync, so everytime a file is changed in the `examples` folder, the browser automatically reloads it
+
+# Contributing
+
+I'll be very happy to accept contribution to this repo, either to extend existing samples or to add new one. Feel free to open PR (see [here](https://help.github.com/en/articles/about-pull-requests) how) or to [open a new issue](https://github.com/gverni/d3-for-the-impatient/issues/new) if you want to report bugs or propose changes. 
