@@ -6,7 +6,7 @@ Also, I'm planning to maintain and extend the example code, so any contribution 
 
 # How to use it 
 
-## tl;dr (for those who are familiar with node.js echosystem)
+## tl;dr (for those who are familiar with node.js ecosystem)
 
 ```
 npm start
@@ -49,4 +49,4 @@ This will:
 
 # Contributing
 
-I'll be very happy to accept contribution to this repo, either to extend existing samples or to add new one. Feel free to open PR (see [here](https://help.github.com/en/articles/about-pull-requests) how) or to [open a new issue](https://github.com/gverni/d3-for-the-impatient/issues/new) if you want to report bugs or propose changes. 
+I'll be very happy to accept contributions to this repo, either to extend existing samples or to add new one. Feel free to open PR (see [here](https://help.github.com/en/articles/about-pull-requests) how) or to [open a new issue](https://github.com/gverni/d3-for-the-impatient/issues/new) if you want to report bugs or propose changes. 
